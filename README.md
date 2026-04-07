@@ -1,7 +1,7 @@
 # Lamini Fine-Tuning Experiment (Exploratory Project)
 
 ## Overview
-This project is a **small experimental setup and practice** created to understand and explore the **fine-tuning workflow of large language models using Lamini**.  
+This project is a **small experimental setup and practice project** created to understand and explore the **fine-tuning workflow of large language models using Lamini**.  
 The primary goal was **hands-on learning**, not building a production-grade or fully optimized model.
 
 The project focuses on:
